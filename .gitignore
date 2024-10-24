@@ -1,0 +1,14 @@
+# Node modules
+asm2_fe/node_modules/
+
+# Build outputs
+asm2_fe/build/
+asm2_be/target/
+
+# IDE files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
