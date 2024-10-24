@@ -1,2 +1,2 @@
 git repo url:
-https://github.com/tony-nguyen-95/fullstack-spring-boot-1.git
+https://github.com/tony-nguyen-95/asm2-fullstack-prj.git
